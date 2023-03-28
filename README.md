@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imkevinliao
-- 👀 I’m interested in Python Linux Golang
-- 🌱 I’m looking to collaborate on Python
-- 💞️ How to reach me ...
+- 👀 I’m interested in Python Linux Golang (C Java HTML CSS C# Rust)
+- 🌱 I’m looking to collaborate on Python > 3.6 (f-string is awesome)
+- 💞️ How to reach me ... 
 - 📫 Life is short, you need Python!
 
 <!---
