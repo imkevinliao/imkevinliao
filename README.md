@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 　　夫六国与秦皆诸侯，其势弱于秦，而犹有可以不赂而胜之之势。苟以天下之大，下而从六国破亡之故事，是又在六国下矣。
 
 ----------
-诸君，在感情里亦是如此啊！
+诸君，感情亦是如此
