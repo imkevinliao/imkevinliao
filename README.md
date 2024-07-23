@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @[imkevinliao](https://github.com/imkevinliao) Abandoned Old Account@[KevinStarry](https://github.com/KevinStarry)
+- 👋 Hi, I’m @[imkevinliao](https://github.com/imkevinliao)
+- 🌱 Previously used account @[KevinStarry](https://github.com/KevinStarry)
 - 👀 I’m interested in Python Golang Linux (C Java HTML CSS C# Rust)
-- 🌱 I’m looking to collaborate on Python
-- 💞️ How to reach me ... 
-- 📫 Life is short, you need Python!
----
-<!---
-imkevinliao/imkevinliao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️  📫 Life is short, you need Python!
+------
 # 六国论〔宋代〕苏洵
 　　六国破灭，非兵不利，战不善，弊在赂秦。赂秦而力亏，破灭之道也。或曰：六国互丧，率赂秦耶？曰：不赂者以赂者丧。盖失强援，不能独完。故曰：弊在赂秦也。
 
@@ -18,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 　　呜呼！<b>以赂秦之地封天下之谋臣，以事秦之心礼天下之奇才</b>，并力西向，则吾恐秦人食之不得下咽也。悲夫！有如此之势，而为秦人积威之所劫，日削月割，以趋于亡。为国者无使为积威之所劫哉！
 
 　　夫六国与秦皆诸侯，其势弱于秦，而犹有可以不赂而胜之之势。苟以天下之大，下而从六国破亡之故事，是又在六国下矣。
+  
+------
 
-----------
 诸君，感情亦是如此
