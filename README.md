@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @[imkevinliao](https://github.com/imkevinliao)
-- 🌱 Previously used account @[KevinStarry](https://github.com/KevinStarry)
-- 👀 I’m interested in Python Golang Linux (C Java HTML CSS C# Rust)
-- 💞️  📫 Life is short, you need Python!
+- 🌱 I’m interested in Python Golang Linux (C Java HTML CSS C# Rust)
+- 👀 I wish to spend my remaining years wandering the world, making a home wherever I land.
+- 💞️ For half my life, I chased the 'decent' job and the 'respectable' life. Now, with the years that remain, I choose to shed those labels and finally see the world for what it truly is.
+- 📫 life is short, you need Python!
 ------
+
 # 六国论〔宋〕苏洵
 　　六国破灭，非兵不利，战不善，弊在赂秦。赂秦而力亏，破灭之道也。或曰：六国互丧，率赂秦耶？曰：不赂者以赂者丧。盖失强援，不能独完。故曰：弊在赂秦也。
 
@@ -16,4 +18,4 @@
   
 ------
 
-诸君，感情亦是如此
+感情亦如是
